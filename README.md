@@ -39,7 +39,7 @@ const pdfBytes = await newPDFDoc.save();
 download(pdfBytes, "split_pdf_sample.pdf", "application/pdf");
 ```
 
-[DEMO]()
+[DEMO](https://joaomartins-callmejohn.github.io/aps-viewer-pdf-splitter/)
 
 ## License
 
